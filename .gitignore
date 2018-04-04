@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# keys and certs
+*.key 
+*.csr 
+*.crt
+*.pem
